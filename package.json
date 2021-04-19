@@ -1,0 +1,19 @@
+{
+  "name": "curiouscat",
+  "version": "1.0.0",
+  "description": "CuriousCat API interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curiouscat",
+    "api"
+  ],
+  "author": "Alyx <alyx@malkier.net>",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
